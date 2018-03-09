@@ -12,6 +12,7 @@
   "dependencies": {
     "moment": "^2.20.1",
     "vue": "^2.5.2",
+    "vue-graphql": "^0.1.0",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
