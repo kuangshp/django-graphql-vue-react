@@ -1,3 +1,5 @@
+### 运行效果
+![1.png](https://github.com/kuangshp/django-graphql-vue/blob/master/1.png "")
 ### 一、关于`django+graphql`的使用可以参考[传送门](http://blog.csdn.net/kuangshp128/article/details/79370351)
 
 ### 二、设置`django`项目允许跨域访问
